@@ -54,6 +54,7 @@
   background-color:#29648A;
   padding-top:20px;
   padding-bottom:20px;
+  margin-top:auto;
       bottom: 0; /* Прижато до нижнього краю */
       width: 100%; /* Ширина блока */
   }
